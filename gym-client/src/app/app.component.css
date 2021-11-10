@@ -1,0 +1,12 @@
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.navbar{
+  background: #283618;
+}
+
+button {
+  color: #dda15e;
+}
